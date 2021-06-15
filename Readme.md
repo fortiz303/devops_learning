@@ -1,0 +1,1 @@
+This is a simple DevOps roadmap that is aimed to help you familiarize with DevOps best uses, practices, and scenarios. Feel free to go into rabbitholes and learn more in depth on servers, modules, proxies, linux, and whatever else is included in the material. God Bless!
